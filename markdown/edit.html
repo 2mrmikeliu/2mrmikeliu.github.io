@@ -28,7 +28,12 @@
   <p>提示：本页面制作水平逼近20世纪90年代初。</p>
 </div>
 <div id="result"></div>
-<script type="text/javascript" src="../script/Markdown.js">
+<script type="text/javascript" src="../script/editor.js">
 </script>
+<a>页面名：</a><textarea style="width:600px" class="Page"></textarea>
+<button>载入内容</button>
+<p>下面是内容：</p>
+<textarea style="width:800px;height:1000px" class="Text"></textarea>
+<button onClick="putfile(document.getElementById("Page").innerHTML)">刷入文件</button>
 </body>
 </html>
