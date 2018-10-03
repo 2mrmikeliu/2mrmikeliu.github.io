@@ -1,4 +1,5 @@
 function getTime() {
+
 		//clientSideInclude(text,"");
 
     //var text = document.getElementById("Content").value;
