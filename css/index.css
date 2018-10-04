@@ -4,13 +4,3 @@
 .Main p {
 	text-align: center;
 }
-#apDiv1 {
-	position: absolute;
-	left: 7px;
-	top: 60px;
-	width: 268px;
-	height: 490px;
-	z-index: 1;
-	font-size: 48px;
-	font-weight: bold;
-}

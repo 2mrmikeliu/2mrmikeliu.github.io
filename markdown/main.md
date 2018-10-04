@@ -1,4 +1,4 @@
-﻿# 关于本网站
+﻿---
 
 本网站是一个 Javascript 静态博客
 
@@ -6,6 +6,4 @@
 
 架构 **Copyleft Mikeliu**
 
-使用了 **showdown 库 、 jQuery 库**
-
-[回到主页](\index.html)
+使用了 **[showdown](https://www.npmjs.com/package/showdown)、 [jQuery](https://jquery.com/)**
